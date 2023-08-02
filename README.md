@@ -35,5 +35,7 @@ spoken. The result is the WER. To get the WER score you need to install the
 
 ![Screenshot 2023-08-03 012739](https://github.com/AnshulMaurya21/Automatic-Speech-Recognition-by-CTC/assets/87333511/c48a2e7e-7faf-4d42-97c4-4bf7dbae0acc)
 
+## Results
+![Screenshot 2023-08-03 014900](https://github.com/AnshulMaurya21/Automatic-Speech-Recognition-by-CTC/assets/87333511/c9912b77-f9f0-4542-9ead-7361575a2fb0)
 
 
