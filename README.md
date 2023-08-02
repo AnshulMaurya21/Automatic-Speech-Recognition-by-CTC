@@ -27,3 +27,13 @@ the substitutions, insertions, and deletions that occur in a sequence of
 recognized words. Divide that number by the total number of words originally
 spoken. The result is the WER. To get the WER score you need to install the
 [jiwer](https://pypi.org/project/jiwer/) package. You can use the following command line:
+
+## Images
+![Screenshot 2023-08-03 012709](https://github.com/AnshulMaurya21/Automatic-Speech-Recognition-by-CTC/assets/87333511/12abe31c-8a72-4638-aff0-3faea0801284)
+
+![Screenshot 2023-08-03 012832](https://github.com/AnshulMaurya21/Automatic-Speech-Recognition-by-CTC/assets/87333511/92c091f0-3a7d-45f7-916b-c4455a93528e)
+
+![Screenshot 2023-08-03 012739](https://github.com/AnshulMaurya21/Automatic-Speech-Recognition-by-CTC/assets/87333511/c48a2e7e-7faf-4d42-97c4-4bf7dbae0acc)
+
+
+
